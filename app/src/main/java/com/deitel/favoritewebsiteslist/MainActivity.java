@@ -1,7 +1,11 @@
+/*12301031
+ *Chen Jixuan
+ */
+
 // MainActivity.java
 // Manages your favorite Twitter searches for easy  
 // access and display in the device's web browser
-package com.deitel.twittersearches;
+package com.deitel.favoritewebsiteslist;
 
 import java.util.ArrayList;
 import java.util.Collections;
